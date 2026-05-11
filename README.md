@@ -1,5 +1,5 @@
-# Hey, I'm Phani 👋
-### Full Stack Developer & Cloud Enthusiast
+# Hey, I'm Phani Harshith Pachhipulusu 👋
+### Full Stack Developer & Data Enthusiast
 Building scalable full-stack applications · First Class CS Graduate
 
 ---
